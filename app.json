@@ -1,0 +1,10 @@
+{
+  "name": "Telegram Forward Bot",
+  "description": "A Telegram Forward Bot",
+  "keywords": [
+    "telegram"
+  ],
+  "repository": "https://github.com/yasirarism",
+  "success_url": "https://t.me/YMovieZ",
+  "website": "https://www.yasir.my.id"
+}
